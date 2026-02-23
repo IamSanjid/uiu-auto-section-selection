@@ -1,0 +1,6 @@
+/target
+/sections
+/sections_student_view
+*.json
+/.vscode
+.DS_Store
